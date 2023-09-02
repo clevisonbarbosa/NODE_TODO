@@ -1,9 +1,5 @@
 # Node.js TODO MVC App
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-![App Screenshot](screenshot.png)
-
 Este é um projeto de exemplo de uma aplicação TODO list em Node.js com o padrão de arquitetura MVC (Model-View-Controller). A aplicação utiliza o framework Express.js, o mecanismo de template Handlebars e rotas para criar uma experiência interativa e responsiva.
 
 ## Pré-requisitos
